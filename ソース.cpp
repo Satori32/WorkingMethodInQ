@@ -6,7 +6,7 @@
 
 //this is working flow in quantom area.master slave model.
 //compailer is down. to cant write next. i exit to write. move vc. move!!!
-
+//this is ever MOQ.
 
 struct GrobalKnowleage
 {
